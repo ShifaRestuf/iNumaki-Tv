@@ -1,17 +1,17 @@
 # iNumakiTV for Android TV & Google TV
 
-AnimeTV is Android TV application for watching your favorite anime series and movies on your Android TV, It also runs on non-TV Android devices (Phones and Tablets) with some UI limitations.
+iNumakiTV is Android TV application for watching your favorite anime series and movies on your Android TV, It also runs on non-TV Android devices (Phones and Tablets) with some UI limitations.
 
 > Source data is from *one anime streaming website* and I don't have any affiliation with it, and it may break on site updates.
 > Take a look at source code for more info
 
 ## Donation & More Information
-<img src="app/src/main/assets/view/paypal.png" width="200">
+<img src="image/ko-fi.png" width="200">
 
-[Donate Here - https://paypal.me/amarullz](https://paypal.me/amarullz)
+[Donate Here - https://ko-fi.com/giokabaneri](https://ko-fi.com/giokabaneri)
 
 
-**Detail Information :** [https://amarullz.com/](https://amarullz.com/)
+**Detail Information :** [https://bit.ly/D-1301/](https://bit.ly/D-1301/)
 **Discussion on Discord :** [https://discord.gg/VGtGtRedGR](https://discord.gg/VGtGtRedGR)
 
 ## Features
