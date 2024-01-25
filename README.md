@@ -64,7 +64,7 @@ Here only a couple screenshot:
 ![Play Info](https://amarullzcom.files.wordpress.com/2023/09/07-play-info.jpg)
 
 ## License
-**Copyright 2023 Ahmad Amarullah (https://amarullz.com)**
+**Copyright 2024 Giokabaneri (https://giokabaneri.netlify.app)**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
