@@ -13,7 +13,7 @@ iNumakiTV is Android TV application for watching your favorite anime series and 
 
 **Detail Information :** [https://giokabaneri.netlify.app/](https://giokabaneri.netlify.app/)
 
-**Discussion on Discord :** [https://discord.gg/VGtGtRedGR](https://discord.gg/VGtGtRedGR)
+**Discussion on Discord :** [https://discord.gg/VGtGtRedGR](https://discord.com/invite/RRjfaHrNmz)
 
 ## Features
 - **NEW** - Soft-subtitle & Auto Translate to **134 Languages** (Only for supported contents)
@@ -44,7 +44,8 @@ iNumakiTV is Android TV application for watching your favorite anime series and 
 - All Watchlist & History is saved locally – I don’t have any server to save your watch & history 🤣 So don’t worry.
 
 ## Open Source
-Source code is available at github ( https://github.com/amarullz/AnimeTV ). Release of source code may make *source website* prevent this apps to run, but hope it work fine for long, and you will help me update it when it break 😂.
+Source code is a Discord https://discord.com/invite/RRjfaHrNmz ). 
+Release of source code may make *source website* prevent this apps to run, but hope it work fine for long, and you will help me update it when it break 😂.
 
 And Please Contribute your bugfixes, reports & suggestions for next better update. If you find it useful, donation is welcome.
 
@@ -56,12 +57,12 @@ Almost all data need javascript to make it available (It's not pure HTML that ca
 But the good news is **AnimeTV** will block any analytics and ads domain (dns) when requesting & fetching data. All data like watchlist & watch history also stored local in **localStorage**.
 
 ## Screenshot
-More screenshot is available in my website: https://amarullz.com/2023/09/02/animetv-for-android-tv-google-tv/
+More screenshot is available in my Discord: https://media.discordapp.net/attachments/1192437024980996176/1200259608527253605/1700545662903.jpg?ex=65c587de&is=65b312de&hm=800951dc53942b787f5c2c22fefd1b72f7ace8192449769e11b48422baeb2871&
 Here only a couple screenshot:
 
-![Main Home Screen](https://amarullzcom.files.wordpress.com/2023/09/01-home.jpg)
+![Main Home Screen](https://media.discordapp.net/attachments/1192437024980996176/1200259603854790786/Frame_14156_1.png?ex=65c587dd&is=65b312dd&hm=b09a9f1f12bb3733fa00e118fb3ee1eafecbd69b14609a35f83238b892e3e284&)
 
-![Play Info](https://amarullzcom.files.wordpress.com/2023/09/07-play-info.jpg)
+![Play Info](https://media.discordapp.net/attachments/1192437024980996176/1200259608527253605/1700545662903.jpg?ex=65c587de&is=65b312de&hm=800951dc53942b787f5c2c22fefd1b72f7ace8192449769e11b48422baeb2871&)
 
 ## License
 **Copyright 2024 Giokabaneri (https://giokabaneri.netlify.app)**
