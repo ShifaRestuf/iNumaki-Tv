@@ -56,11 +56,9 @@ Almost all data need javascript to make it available (It's not pure HTML that ca
 
 But the good news is **iNumakiTV** will block any analytics and ads domain (dns) when requesting & fetching data. All data like watchlist & watch history also stored local in **localStorage**.
 
-## Screenshot
+## Screenshot Coming Soon
 More screenshot is available in my website: bit.ly/D-1301
 Here only a couple screenshot:
-
-![Main Home Screen](https://media.discordapp.net/attachments/1192437024980996176/1200259603854790786/Frame_14156_1.png?ex=65c587dd&is=65b312dd&hm=b09a9f1f12bb3733fa00e118fb3ee1eafecbd69b14609a35f83238b892e3e284&)
 
 ![Play Info](https://media.discordapp.net/attachments/1192437024980996176/1200259608527253605/1700545662903.jpg?ex=65c587de&is=65b312de&hm=800951dc53942b787f5c2c22fefd1b72f7ace8192449769e11b48422baeb2871&)
 
