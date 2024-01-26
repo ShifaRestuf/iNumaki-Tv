@@ -6,7 +6,7 @@ iNumakiTV is Android TV application for watching your favorite anime series and 
 > Take a look at source code for more info
 
 ## Donation & More Information
-<img src="image/ko-fi.png" width="200">
+<img src="image" width="200">
 
 [Donate Here - https://ko-fi.com/giokabaneri]
 
