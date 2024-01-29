@@ -6,6 +6,7 @@ iNumakiTV is Android TV application for watching your favorite anime series and 
 > Take a look at source code for more info
 
 ## Donation & More Information
+<img src="image/donate/qrcode.png" width="200">
 
 **Donate Here :** [KO-FI](https://ko-fi.com/giokabaneri)
 
@@ -55,7 +56,7 @@ Almost all data need javascript to make it available (It's not pure HTML that ca
 But the good news is **iNumakiTV** will block any analytics and ads domain (dns) when requesting & fetching data. All data like watchlist & watch history also stored local in **localStorage**.
 
 ## Screenshot Coming Soon
-More screenshot is available in my website: [Giokabaneri](bit.ly/D-1301)
+More screenshot is available in my website: [Giokabaneri](https://bit.ly/D-1301)
 Here only a couple screenshot:
 
 ![Play Info](https://media.discordapp.net/attachments/1192437024980996176/1200259608527253605/1700545662903.jpg?ex=65c587de&is=65b312de&hm=800951dc53942b787f5c2c22fefd1b72f7ace8192449769e11b48422baeb2871&)
