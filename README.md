@@ -1,3 +1,5 @@
+<img src="image/screenshot/Banner iNumaki.png">
+
 # iNumakiTV for Android TV & Google TV
 
 iNumakiTV is Android TV application for watching your favorite anime series and movies on your Android TV, It also runs on non-TV Android devices (Phones and Tablets) with some UI limitations.
@@ -59,7 +61,6 @@ But the good news is **iNumakiTV** will block any analytics and ads domain (dns)
 More screenshot is available in my website: [Giokabaneri](https://bit.ly/D-1301)
 Here only a couple screenshot:
 
-![Play Info](https://media.discordapp.net/attachments/1192437024980996176/1200259608527253605/1700545662903.jpg?ex=65c587de&is=65b312de&hm=800951dc53942b787f5c2c22fefd1b72f7ace8192449769e11b48422baeb2871&)
 <img src="image/screenshot/app.png">
 
 ## License
