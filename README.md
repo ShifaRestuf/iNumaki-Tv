@@ -1,6 +1,6 @@
 <img src="image/screenshot/Banner iNumaki.png">
 
-# iNumakiTV for Android TV & Google TV
+# iNumaki TV for Android TV & Google TV
 
 iNumakiTV is Android TV application for watching your favorite anime series and movies on your Android TV, It also runs on non-TV Android devices (Phones and Tablets) with some UI limitations.
 
