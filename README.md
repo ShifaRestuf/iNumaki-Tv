@@ -44,10 +44,8 @@ iNumakiTV is Android TV application for watching your favorite anime series and 
 - Support for Android TV / Google TV home list and PlayNext
 - All Watchlist & History is saved locally – I don’t have any server to save your watch & history 🤣 So don’t worry.
 
-## Open Source
-Source code is a [Discord](https://discord.com/invite/RRjfaHrNmz). 
-Release of source code may make *source website* prevent this apps to run, but hope it work fine for long, and you will help me update it when it break 😂.
-
+## Data safety
+Safety starts with understanding how developers collect and share your data. Data privacy and security practices may vary based on your use, region, and age. The developer provided this information and may update it over time.
 And Please Contribute your bugfixes, reports & suggestions for next better update. If you find it useful, donation is welcome.
 
 ## WebView Based?
