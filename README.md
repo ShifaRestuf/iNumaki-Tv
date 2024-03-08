@@ -5,7 +5,7 @@
 iNumakiTV is Android TV application for watching your favorite anime series and movies on your Android TV, It also runs on non-TV Android devices (Phones and Tablets) with some UI limitations.
 
 > Source data is from *one anime streaming website* and I don't have any affiliation with it, and it may break on site updates.
-> Take a look at source code for more info
+> Take a look at applications for more info
 
 ## Donation & More Information
 <img src="image/donate/qrcode.png" width="200">
