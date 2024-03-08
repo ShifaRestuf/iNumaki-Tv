@@ -10,9 +10,7 @@ iNumakiTV is Android TV application for watching your favorite anime series and 
 ## Donation & More Information
 <img src="image/donate/qrcode.png" width="200">
 
-**Donate Here :** [KO-FI](https://ko-fi.com/giokabaneri)
-
-**Detail Information :** [Website Official](https://giokabaneri.netlify.app/)
+**Detail Information :** [Website Official](https://timproject.vercel.app/)
 
 **Discussion on Discord :** [Discord Official](https://discord.com/invite/RRjfaHrNmz)
 
@@ -56,13 +54,13 @@ Almost all data need javascript to make it available (It's not pure HTML that ca
 But the good news is **iNumakiTV** will block any analytics and ads domain (dns) when requesting & fetching data. All data like watchlist & watch history also stored local in **localStorage**.
 
 ## Screenshot Coming Soon
-More screenshot is available in my website: [Giokabaneri](https://bit.ly/D-1301)
+More screenshot is available in my team website: [G-PROJECT](https://timproject.vercel.app)
 Here only a couple screenshot:
 
 <img src="image/screenshot/app.png">
 
 ## License
-**Copyright 2024 Giokabaneri**
+**Copyright 2024 G-PROJECT**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
